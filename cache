@@ -1,0 +1,34 @@
+[colors]
+red = 255,0,0
+green = 0,255,0
+blue = 0,0,255
+redcomment = %(red)s
+greencomment = %(green)s
+bluecomment = %(blue)s
+
+[descriptions]
+red = The color of love
+green = The color of hope
+blue = The color of strength
+
+[My Section]
+foodir = %(dir)s/whatever
+dir = frob
+long = this value continues
+	in the next line
+
+[SectionOne]
+status = Single
+name = Derek
+value = Yes
+age = 29
+single = True
+
+[SectionTwo]
+favoritecolor = Green
+
+[SectionThree]
+familyname = Johnson
+
+[Others]
+route = 66
